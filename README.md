@@ -3,12 +3,18 @@
 
 ## This below is the Home page which show the information needed for the admin like the users, sale a chart with margin sale and months etc.
 
-![Admin Home page](https://user-images.githubusercontent.com/114101461/198881795-50ee7d71-f28f-4488-b5d0-ce42e095cf1b.png)
+![Admin Home page](https://user-images.githubusercontent.com/114101461/198883506-0d5efc97-22dc-4e95-81a3-b615a0169f0c.png)
 
 
 ## This below is where the admin sees users and their infomation wherby he can view and also delete when needed 
 
 ![Amin users page](https://user-images.githubusercontent.com/114101461/198882388-5a1851bd-7114-462b-97dc-aa770ef86699.png)
+
+
+## This below is where admin views informations about the customers
+
+![Amin users info page](https://user-images.githubusercontent.com/114101461/198883721-e7df152e-3fcd-49e4-94a8-bfee2e779899.png)
+
 
 
 ## This below is where the new users are added 
@@ -32,6 +38,7 @@
 
 ![Amin Dark mood Home page](https://user-images.githubusercontent.com/114101461/198883278-2f6044b1-7eec-4a85-8e4f-2ea598acb31a.png)
 ![Amin Dark mood users page](https://user-images.githubusercontent.com/114101461/198883280-8c0bbb83-a45a-4169-a5c5-97647a80dd2b.png)
+![Amin Dark mood users info page](https://user-images.githubusercontent.com/114101461/198883731-0255a639-ff07-4c86-a657-2cf0e6902d4c.png)
 ![Amin Dark mood add new users page](https://user-images.githubusercontent.com/114101461/198883281-666e7ad2-cd58-410f-ae1e-e8ae4e1d3b74.png)
 ![Amin Dark mood add new products page](https://user-images.githubusercontent.com/114101461/198883283-df1f69c3-dbe9-475d-955d-74e89b48f3f8.png)
 ![Amin Dark mood new products page](https://user-images.githubusercontent.com/114101461/198883285-6f46f519-9013-4d50-a676-a6def8fa1837.png)
