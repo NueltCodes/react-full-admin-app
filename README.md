@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# This is an Admin web app with functionality. 
+## Below are the preview of the web app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This below is the Home page which show the information needed for the admin like the users, sale a chart with margin sale and months etc.
 
-## Available Scripts
+![Admin Home page](https://user-images.githubusercontent.com/114101461/198881795-50ee7d71-f28f-4488-b5d0-ce42e095cf1b.png)
 
-In the project directory, you can run:
 
-### `npm start`
+## This below is where the admin sees users and their infomation wherby he can view and also delete when needed 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Amin users page](https://user-images.githubusercontent.com/114101461/198882388-5a1851bd-7114-462b-97dc-aa770ef86699.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## This below is where the new users are added 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Amin add new users page](https://user-images.githubusercontent.com/114101461/198882965-f4cb0569-14fd-4496-b1a1-7d0d10bfd674.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## This below is where the admin sees the customers names, their requests and status of certain products
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Amin products page](https://user-images.githubusercontent.com/114101461/198882524-fb246f48-e526-4402-8e91-dcf900a3a7df.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## This below is where new produscts are added with specific info
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Amin add new products page](https://user-images.githubusercontent.com/114101461/198883035-8c128384-d7f8-4763-98f8-38561eaaa936.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## This below is the preview of the app in dark mode, Please feel free to drop a comment
+## Thank You
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Amin Dark mood Home page](https://user-images.githubusercontent.com/114101461/198883278-2f6044b1-7eec-4a85-8e4f-2ea598acb31a.png)
+![Amin Dark mood users page](https://user-images.githubusercontent.com/114101461/198883280-8c0bbb83-a45a-4169-a5c5-97647a80dd2b.png)
+![Amin Dark mood add new users page](https://user-images.githubusercontent.com/114101461/198883281-666e7ad2-cd58-410f-ae1e-e8ae4e1d3b74.png)
+![Amin Dark mood add new products page](https://user-images.githubusercontent.com/114101461/198883283-df1f69c3-dbe9-475d-955d-74e89b48f3f8.png)
+![Amin Dark mood new products page](https://user-images.githubusercontent.com/114101461/198883285-6f46f519-9013-4d50-a676-a6def8fa1837.png)
